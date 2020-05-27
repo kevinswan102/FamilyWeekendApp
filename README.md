@@ -3,12 +3,8 @@
 A TicTacToe application. Missing build folder.
 
 # Screenshots
-<img src="images/ss1.png" width="300">
-<img src="images/ss2.png" width="300">
-<img src="images/ss3.png" width="300">
-<img src="images/ss4.png" width="300">
-<img src="images/ss5.png" width="300">
-<img src="images/ss5.png" width="300">
+<img src="images/ss1.png" width="300"><img src="images/ss2.png" width="300"><img src="images/ss3.png" width="300">
+<img src="images/ss4.png" width="300"><img src="images/ss5.png" width="300"><img src="images/ss5.png" width="300">
 
 
 
