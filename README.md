@@ -3,7 +3,7 @@
 A TicTacToe application. Missing build folder.
 
 # Screenshots
-![](images/TTT.PNG)  ![](images/TTT2.PNG)  ![](images/TTT3.PNG)
+![](images/ss1.PNG)  ![](images/ss2.PNG)  ![](images/ss3.PNG)
 
 
 ## Getting Started
