@@ -1,6 +1,10 @@
-# rufwapp
+# Flutter TicTacToe
 
-A new Flutter application.
+A TicTacToe application. Missing build folder.
+
+# Screenshots
+![](images/TTT.PNG)  ![](images/TTT2.PNG)  ![](images/TTT3.PNG)
+
 
 ## Getting Started
 
